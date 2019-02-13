@@ -6737,7 +6737,7 @@ react-proxy@^1.1.7:
     lodash "^4.6.1"
     react-deep-force-update "^1.0.0"
 
-react-test-renderer@^16.0.0-0, react-test-renderer@^16.5.0, react-test-renderer@^16.8.1:
+react-test-renderer@^16.0.0-0, react-test-renderer@^16.5.0:
   version "16.8.1"
   resolved "https://registry.yarnpkg.com/react-test-renderer/-/react-test-renderer-16.8.1.tgz#72845ad9269be526126e97853311982f781767be"
   integrity sha512-Bd21TN3+YVl6GZwav6O0T6m5UwGfOj+2+xZH5VH93ToD6M5uclN/c+R1DGX49ueG413KZPUx7Kw3sOYz2aJgfg==
